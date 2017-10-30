@@ -1,0 +1,5 @@
+{
+    "name": "AddColorForm",
+    "main": "AddColorForm.js",
+    "storybook": "AddColorFormStory.js"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Color",
+    "main": "Color.js",
+    "storybook": "ColorStory.js"
+}
